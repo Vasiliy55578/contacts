@@ -1,0 +1,11 @@
+.space {
+  width: 100%;
+}
+p {
+  height: 5px;
+}
+#send{
+  margin-left: 2%;
+  margin-top: 1%;
+  cursor: pointer;
+}
